@@ -6,7 +6,7 @@ namespace Interface_Segregation_Principle_demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface Segregation Principle demo", "Interface Segregation Principle demo\Interface Segregation Principle demo.csproj", "{247860E7-D602-4FA7-80C8-D99395DDF8C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo library", "Demo library\Demo library.csproj", "{EB4A4F08-42EB-4000-9930-559679EDAA48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{247860E7-D602-4FA7-80C8-D99395DDF8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{247860E7-D602-4FA7-80C8-D99395DDF8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{247860E7-D602-4FA7-80C8-D99395DDF8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4A4F08-42EB-4000-9930-559679EDAA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4A4F08-42EB-4000-9930-559679EDAA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4A4F08-42EB-4000-9930-559679EDAA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4A4F08-42EB-4000-9930-559679EDAA48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
