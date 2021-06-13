@@ -6,4 +6,8 @@
     <RootNamespace>Interface_Segregation_Principle_demo</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Demo library\Demo library.csproj" />
+  </ItemGroup>
+
 </Project>

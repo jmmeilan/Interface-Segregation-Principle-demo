@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Demo_library;
+using System;
 
 namespace Interface_Segregation_Principle_demo
 {
